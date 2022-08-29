@@ -1,7 +1,8 @@
 # IntrusionDetectionAndAlertingSystem
 
-• An intelligent IoT based Home Security System which is developed using Raspberry Pi which contains Ultrasonic Sensors, PIR Sensors, Flame Sensors and a    PI Camera which will detect the presence of an Intruder or possible fire accident and quickly alert the user by sending the user an email alert containing the picture of the intruder, captured by a Pi camera.
-• Thie device can be installed at the main door of offices, homes or open spaces where there is a necessity for surveillance and the user can monitor the area under surveillance from anywhere in the world using the internet.
+• An intelligent IoT based Home Security System which is developed using Raspberry Pi which contains Ultrasonic Sensors, PIR Sensors, Flame Sensors and a     PI Camera which will detect the presence of an Intruder or possible fire accident and quickly alert the user by sending the user an email alert.           containing the picture of the intruder, captured by a Pi camera.
+
+• Thie device can be installed at the main door of offices, homes or open spaces where there is a necessity for surveillance and the user can monitor the     area under surveillance from anywhere in the world using the internet.
 
 
 ![image](https://user-images.githubusercontent.com/63497314/187141533-39ece529-b569-42de-85b5-3bb741bfb9e9.png)
